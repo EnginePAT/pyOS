@@ -1,0 +1,15 @@
+pip
+ursina
+perlin noise
+
+pip3 install perlin-noise
+pip3 install ursina
+
+or:
+pip install perlin-noise
+pip install ursina
+
+run:
+python3 Main.py
+or:
+python Main.py
